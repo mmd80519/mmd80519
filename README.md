@@ -27,7 +27,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmd80519)
 [![Eitaa](https://img.shields.io/badge/Eitaa-%2351B259.svg?style=for-the-badge&logo=eitaa&logoColor=white)](https://eitaa.com/mmd80519)
 [![Rubika](https://img.shields.io/badge/Rubika-%23E63946.svg?style=for-the-badge&logo=rubika&logoColor=white)](https://rubika.ir/mmd80519)
-[![Website](https://img.shields.io/badge/Website-%23f0f0f0.svg?style=for-the-badge&logo=web&logoColor=black)](https://mohammad-bagher.ir)
+[![website](https://img.shields.io/badge/website-%23E63946.svg?style=for-the-badge&logo=website&logoColor=white)](https://mohammad-bagher.ir)
 
 ---
 
